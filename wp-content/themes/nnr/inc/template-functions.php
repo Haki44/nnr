@@ -75,7 +75,7 @@ register_post_type( “membres”, array (
     ‘menu_icon’ => false,
     ‘can_export’ => true,
     ‘show_in_nav_menus’ => true,
-    ‘show_in_menu’ => true,
+    ‘show_in_menu' => true,
     )
     );
 }
